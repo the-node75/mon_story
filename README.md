@@ -22,7 +22,13 @@ It is possible to install the software on the node server instance. Hovewer, it 
 
 ## Dashboard View
 
-![Grafana dashboard screenshot](./doc/story_node_dashboard.png)
+![Grafana dashboard screenshot](./doc/dashboard_story0.png)
+
+
+![Grafana dashboard screenshot](./doc/dashboard_story1.png)
+
+
+![Grafana dashboard screenshot](./doc/dashboard_story2.png)
 
 
 ## The following steps will guide you through the setup process:
