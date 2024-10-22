@@ -37,3 +37,22 @@ It is possible to install the software on the node server instance. Hovewer, it 
 * [Setup monitoring on node](./doc/setup_node_monitoring.md)
 
 
+## Our public monitoring service
+
+* Dashboard: [https://publicmonitoring.node75.org/d/story](https://publicmonitoring.node75.org/d/story)
+
+To try this dashboard for your node, use the authentication credentials below to submit metrics:
+
+|               |                                 |
+| ------------- | :-------------------------------|
+| hostname      | your unique host name / moniker |
+| url           | https://txmetrics.node75.org    |
+| organization  | n75                             |
+| bucket        | story                           |
+| token         | HiW7KqI24PWeBKOwqjyw0nq-z942S4E5jxE3EnHhVi22_BgGu6d5doNNGE-SiNXM-uJGSgv3KdYZqy-v6p3ubQ==  |
+
+Good luck!
+
+
+
+
